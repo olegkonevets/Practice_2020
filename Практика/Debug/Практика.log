@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Практика.cpp
+c:\users\asus\desktop\c\практика\практика\практика\практика.cpp(7): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Практика.vcxproj -> C:\Users\ASUS\Desktop\C\Практика\Практика\Debug\Практика.exe
